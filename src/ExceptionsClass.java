@@ -17,6 +17,8 @@ public class ExceptionsClass {
             System.out.println("Got an Array exception.");
         }
 
+        System.out.println("Hello World");
+
     }
 
     public static void printArrayValue () throws ArrayIndexOutOfBoundsException{
